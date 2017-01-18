@@ -1,0 +1,14 @@
+{
+ "pages": [
+    "pages/login/login",
+    "pages/live/live"
+  ],
+  "window": {
+    "navigationBarTitleText": "源代码"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}
